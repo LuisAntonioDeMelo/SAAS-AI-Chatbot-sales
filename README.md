@@ -1,2 +1,2 @@
-# SAAS-AI-Chatbot-sales
+# SaaS AI Chatbot :: sales
 mvp project .
